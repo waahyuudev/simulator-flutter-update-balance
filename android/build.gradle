@@ -18,8 +18,8 @@ allprojects {
         maven {
             url "https://mobile-repo.mdd.co.id:8081/artifactory/android-library/"
             credentials {
-                username = "admin"
-                password = "Mddcoid*123#"
+                username = "yourcredential"
+                password = "yourcredential"
             }
         }
     }
